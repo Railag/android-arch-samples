@@ -58,4 +58,9 @@ dependencies {
     // mvvm
     implementation 'androidx.lifecycle:lifecycle-livedata-ktx:2.3.0'
     implementation 'androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.0'
+
+    // mvi
+    implementation("org.orbit-mvi:orbit-core:$orbitVersion")
+    implementation("org.orbit-mvi:orbit-viewmodel:$orbitVersion")
+    implementation 'androidx.lifecycle:lifecycle-runtime-ktx:2.3.0'
 }
