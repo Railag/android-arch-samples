@@ -3,8 +3,7 @@ package com.firrael.arch.samples.common
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import com.firrael.arch.samples.R
-import com.firrael.arch.samples.clean.MainActivityClean
+import com.firrael.arch.samples.clean.presentation.ui.MainActivityClean
 import com.firrael.arch.samples.databinding.SelectionActivityBinding
 import com.firrael.arch.samples.mvi.MainActivityMvi
 import com.firrael.arch.samples.mvp.MainActivityMvp

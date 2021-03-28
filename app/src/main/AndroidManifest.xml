@@ -20,7 +20,7 @@
         <activity android:name=".mvvm.MainActivityMvvm" />
         <activity android:name=".mvp.MainActivityMvp" />
         <activity android:name=".mvi.MainActivityMvi" />
-        <activity android:name=".clean.MainActivityClean" />
+        <activity android:name=".clean.presentation.ui.MainActivityClean" />
     </application>
 
 </manifest>

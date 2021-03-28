@@ -63,4 +63,7 @@ dependencies {
     implementation("org.orbit-mvi:orbit-core:$orbitVersion")
     implementation("org.orbit-mvi:orbit-viewmodel:$orbitVersion")
     implementation 'androidx.lifecycle:lifecycle-runtime-ktx:2.3.0'
+
+    // clean (non-required)
+    implementation 'io.reactivex.rxjava3:rxjava:3.0.0'
 }
