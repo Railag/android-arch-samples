@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Arch samples</string>
+    <string name="mvp_button">MVP</string>
+    <string name="mvvm_button">MVVM</string>
+    <string name="mvi_button">MVI</string>
+    <string name="clean_button">Clean</string>
+</resources>
